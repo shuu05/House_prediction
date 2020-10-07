@@ -23,3 +23,6 @@
 * Is our data  labelled ? i.e, if labelled then it is supervise else unsupervised.
 * What to do ?(i.e, do we have to preform prediction or classificatio or regression or time series).
 * model selection (for this we have to apply different types of models and check which is suited best for our model).
+
+
+[Connect with me on likedin](https://www.linkedin.com/in/nandini-singh-176069175)
